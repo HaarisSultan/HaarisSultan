@@ -1,4 +1,16 @@
-### Hi there 👋
+# <p align="center"> Hey, I'm Haaris 👋🏽 </p>
+
+### 💻 Tools & Technologies: 
+- **Languages:** Python | Java | SQL 
+- **Data Analysis Libraries:** Pandas | Numpy | sci-kit learn | SciPy
+- **Data Visualisation Libraries:** Plotly | Seaborn | Matplotlib | Power BI
+- **Cloud Computing:** AWS | Azure
+
+### ☎️ Personal Information
+- [LinkedIn](https://www.linkedin.com/in/haaris-sultan/)
+
+---
+# <p align="center"> ![Haaris's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaarisSultan&show_icons=true&theme=transparent) </p>
 
 <!--
 **HaarisSultan/HaarisSultan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
