@@ -8,6 +8,7 @@
 
 ### ☎️ Personal Information
 - [LinkedIn](https://www.linkedin.com/in/haaris-sultan/)
+- [CV / Resume](https://github.com/HaarisSultan/HaarisSultan/blob/main/Haaris%20Sultan%20CV.pdf)
 
 ---
 # <p align="center"> ![Haaris's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaarisSultan&show_icons=true&theme=transparent) </p>
